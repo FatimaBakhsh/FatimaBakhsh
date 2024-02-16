@@ -5,7 +5,7 @@ I'm Fatima Bakhsh, a passionate programmer with expertise in C++, C, Python and 
 
 ## Get in Touch
 📫 **Email:** [fatimaibdpk@gmail.com](mailto:YourEmail@example.com)  
-🔗 **LinkedIn:** [Fatima Bakhsh](https://www.linkedin.com/in/fatima-bakhsh)  
+🔗 **LinkedIn:** [Fatima Bakhsh\LinkedIn Profile](www.linkedin.com/in/fatima-bakhsh-1923b22b5)  
 🔗 **Upwork:** [Fatima Bakhsh\Upwork Profile](https://www.upwork.com/freelancers/~01cca0572a8a518d89?mp_source=share)  
 🔗 **Fiverr:** [Fatima Bakhsh\Fiverr Profile]( https://www.fiverr.com/fatima__bakhsh)  
 
